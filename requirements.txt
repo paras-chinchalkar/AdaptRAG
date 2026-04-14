@@ -13,6 +13,4 @@ langchain_groq
 pypdf
 sentence-transformers
 langchain-huggingface
-dotenv
-vectorstore
 duckduckgo-search
