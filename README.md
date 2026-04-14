@@ -1,4 +1,4 @@
-# 🚀 Amazing Adaptive RAG
+# 🚀 AdaptRAG
 
 An enterprise-grade, intelligent Retrieval-Augmented Generation (RAG) system powered by **LangGraph**, **Groq (Llama-3.1-8b)**, and **Streamlit**. 
 
